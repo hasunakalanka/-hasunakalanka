@@ -4,7 +4,7 @@
 
 🚀 Currently working on **Forma.Ai** — an AI Email Agent
 🌍 Based in Sri Lanka
-📫 Reach me at: [https://www.linkedin.com/in/hasun-akalanka-1676942a2/]
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hasun-akalanka-1676942a2/)
 
 ## Projects
 - [Forma.Ai](https://github.com/hasunakalanka/Forma.Ai) — AI Email Agent system
